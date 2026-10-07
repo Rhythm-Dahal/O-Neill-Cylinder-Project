@@ -1,4 +1,4 @@
-import mat
+import math
 
 
 def check_failure_mode(N_S, N_th, thickness, yield_strength):
